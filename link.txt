@@ -1,0 +1,15 @@
+http://localhost/SDA Project/index.php
+
+http://localhost/SDA%20Project/index.php
+
+
+Database Name:  Movies
+
+1)st table => user contain columns name, email, phone,  username, password
+
+
+this is permisons giving
+
+
+https://www.youtube.com/watch?v=Q1NKMPhP8PY -> pushpa
+https://www.youtube.com/watch?v=f_vbAtFSEc0
